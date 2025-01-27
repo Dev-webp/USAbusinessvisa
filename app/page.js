@@ -64,7 +64,7 @@ const ContactPage = () => {
             animate="visible"
           >
             <motion.h1
-              className="font-semibold uppercase leading-tight bg-gradient-to-r from-red-700 to-black text-transparent bg-clip-text text-3xl sm:text-4xl md:text-5xl lg:text-[3.50rem] mt-12 sm:mt-12"
+              className="font-semibold uppercase leading-tight bg-gradient-to-r from-white to-white text-transparent bg-clip-text text-3xl sm:text-4xl md:text-5xl lg:text-[3.50rem] mt-12 sm:mt-12"
 
               style={{ fontFamily: "Times New Roman, serif" }} 
               variants={titleVariants}
@@ -72,7 +72,7 @@ const ContactPage = () => {
               Migrate to New USA with Business Visa
             </motion.h1>
             <motion.p
-              className="flex text-transparent bg-clip-text bg-gradient-to-r from-black to-blue-400 tracking-tight text-left md:font-medium max-w-xl lg:max-w-lg mt-6"
+              className="flex text-transparent bg-clip-text bg-gradient-to-r from-white to-blue-400 tracking-tight text-left md:font-medium max-w-xl lg:max-w-lg mt-6"
               style={{ fontWeight: "bolder", fontFamily: "Times New Roman, serif"}}
               variants={descriptionVariants}
             >
